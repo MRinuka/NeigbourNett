@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279585091607",
+    "project_id": "neighborconn",
+    "storage_bucket": "neighborconn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279585091607:android:ece65d0f454222276aac52",
+        "android_client_info": {
+          "package_name": "com.example.neigbor_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_G4l8I9jh537Iey6G-hM2SD_LYWlEKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
